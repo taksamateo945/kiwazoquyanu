@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kiwazoquyanu.pages.dev/sitemap.xml
